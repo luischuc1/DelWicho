@@ -1,0 +1,5 @@
+{
+  "name": "Consultor de Clasificadores Bacalar",
+  "description": "Una herramienta rápida y offline para buscar claves y descripciones del Clasificador por Objeto del Gasto y Unidades Administrativas del Municipio de Bacalar.",
+  "requestFramePermissions": []
+}
